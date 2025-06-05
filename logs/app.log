@@ -1,0 +1,680 @@
+2025-05-21 16:10:29 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-21 16:10:40 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-21 16:10:47 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-21 16:10:47 [main] TRACE BaseClass - Trace message logger
+2025-05-21 16:10:47 [main] DEBUG BaseClass - Error message logger
+2025-05-21 16:10:47 [main] WARN  BaseClass - warn message logger
+2025-05-21 16:10:47 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-21 16:10:47 [main] INFO  BaseClass - Action instance is created
+2025-05-21 16:10:53 [main] INFO  Action - Clicked an element logger info
+2025-05-21 16:30:15 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-21 16:30:19 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-21 16:30:27 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-21 16:30:27 [main] TRACE BaseClass - Trace message logger
+2025-05-21 16:30:27 [main] DEBUG BaseClass - Error message logger
+2025-05-21 16:30:27 [main] WARN  BaseClass - warn message logger
+2025-05-21 16:30:27 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-21 16:30:27 [main] INFO  BaseClass - Action instance is created
+2025-05-21 16:30:28 [main] INFO  Action - Clicked an element logger info
+2025-05-21 16:45:20 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-21 16:45:27 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-21 16:45:36 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-21 16:45:36 [main] TRACE BaseClass - Trace message logger
+2025-05-21 16:45:36 [main] DEBUG BaseClass - Error message logger
+2025-05-21 16:45:36 [main] WARN  BaseClass - warn message logger
+2025-05-21 16:45:36 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-21 16:45:36 [main] INFO  BaseClass - Action instance is created
+2025-05-21 16:45:39 [main] INFO  Action - Clicked an element logger info
+2025-05-25 00:23:50 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-25 00:24:04 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-25 00:24:11 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-25 00:24:11 [main] TRACE BaseClass - Trace message logger
+2025-05-25 00:24:11 [main] DEBUG BaseClass - Error message logger
+2025-05-25 00:24:11 [main] WARN  BaseClass - warn message logger
+2025-05-25 00:24:11 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-25 00:24:11 [main] INFO  BaseClass - Action instance is created
+2025-05-25 00:24:12 [main] INFO  Action - Entered text : Element with name : username admin
+2025-05-25 00:24:13 [main] INFO  Action - Entered text : Element with name : password admin123
+2025-05-25 00:24:13 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-25 00:24:17 [main] INFO  Action - Clicked an element logger info : Element with text : Ricardo c
+2025-05-25 00:24:19 [main] INFO  Action - Clicked an element logger info : Element with text : Logout
+2025-05-27 14:19:25 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-27 14:19:50 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-27 14:19:58 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-27 14:19:58 [main] TRACE BaseClass - Trace message logger
+2025-05-27 14:19:58 [main] DEBUG BaseClass - Error message logger
+2025-05-27 14:19:58 [main] WARN  BaseClass - warn message logger
+2025-05-27 14:19:58 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-27 14:19:58 [main] INFO  BaseClass - Action instance is created
+2025-05-27 14:20:00 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-27 14:20:01 [main] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-27 14:20:01 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-27 14:20:04 [main] INFO  Action - Clicked an element logger info : Element with text : a b
+2025-05-27 14:20:06 [main] INFO  Action - Clicked an element logger info : Element with className : oxd-userdropdown-link
+2025-05-27 16:45:46 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-27 16:46:07 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-27 16:46:14 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-27 16:46:14 [main] TRACE BaseClass - Trace message logger
+2025-05-27 16:46:14 [main] DEBUG BaseClass - Error message logger
+2025-05-27 16:46:14 [main] WARN  BaseClass - warn message logger
+2025-05-27 16:46:14 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-27 16:46:14 [main] INFO  BaseClass - Action instance is created
+2025-05-27 16:46:16 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-27 16:46:17 [main] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-27 16:46:17 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-27 16:46:20 [main] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-27 16:46:23 [main] INFO  Action - Clicked an element logger info : Element with text : srujanaSaravanaSaravana Boddulluri
+2025-05-27 16:46:26 [main] INFO  Action - Clicked an element logger info : Element with text : Logout
+2025-05-27 16:46:31 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-27 22:47:48 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-27 22:48:21 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-27 22:48:21 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-27 22:48:28 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-27 22:48:28 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-27 22:48:28 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-27 22:48:28 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-27 22:48:28 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-27 22:48:28 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action instance is created 19
+2025-05-27 22:48:29 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-27 22:48:29 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-27 22:48:29 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-27 22:48:29 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-27 22:48:30 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-27 22:48:30 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-27 22:48:31 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-27 22:48:31 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-27 22:48:31 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-27 22:49:14 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-27 22:49:17 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-27 22:49:25 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-27 22:49:25 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-27 22:49:25 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-27 22:49:25 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-27 22:49:25 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-27 22:49:25 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action instance is created 19
+2025-05-27 22:49:25 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-27 22:49:26 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-27 22:49:27 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-27 22:49:30 [TestNG-test-OHRM2 Test1-1] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-27 22:49:32 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Aqsha Madam
+2025-05-27 22:49:33 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Logout
+2025-05-27 22:49:37 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-27 22:49:39 [TestNG-test-OHRM2 Test2-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-27 22:49:48 [TestNG-test-OHRM2 Test2-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-27 22:49:48 [TestNG-test-OHRM2 Test2-1] TRACE BaseClass - Trace message logger
+2025-05-27 22:49:48 [TestNG-test-OHRM2 Test2-1] DEBUG BaseClass - Error message logger
+2025-05-27 22:49:48 [TestNG-test-OHRM2 Test2-1] WARN  BaseClass - warn message logger
+2025-05-27 22:49:48 [TestNG-test-OHRM2 Test2-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-27 22:49:48 [TestNG-test-OHRM2 Test2-1] INFO  BaseClass - Action instance is created 77
+2025-05-27 22:49:49 [TestNG-test-OHRM2 Test2-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 08:43:05 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 08:43:23 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 08:43:23 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-2] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Action initialized for thread 20
+2025-05-28 08:43:33 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 08:43:33 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 08:43:34 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 08:43:34 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 08:43:34 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 08:43:36 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 08:43:38 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 08:43:38 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 08:43:39 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 08:43:39 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 08:43:44 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 08:43:51 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 08:43:51 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 08:43:51 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 08:43:51 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 08:43:51 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 08:43:51 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 08:43:54 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 08:43:55 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 08:43:56 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 08:43:58 [TestNG-test-OHRM2 Test1-1] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-28 08:43:59 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Admin kZAqDTaUxo
+2025-05-28 08:44:01 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Logout
+2025-05-28 08:44:04 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 08:46:35 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 08:46:40 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 08:46:40 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 08:46:49 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 08:46:49 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 08:46:49 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 08:46:49 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 08:46:49 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 08:46:49 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 08:46:50 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 08:46:50 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-28 08:46:50 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-28 08:46:50 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-28 08:46:50 [TestNG-test-OHRM2 Test1-2] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 08:46:50 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Action initialized for thread 20
+2025-05-28 08:46:51 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 08:46:51 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 08:46:52 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 08:46:52 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 08:46:52 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 08:46:52 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 08:46:55 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 08:46:56 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 08:46:56 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 08:46:56 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 08:46:58 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 08:47:06 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 08:47:06 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 08:47:06 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 08:47:06 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 08:47:06 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 08:47:06 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 08:47:07 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 08:47:07 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 08:47:07 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 08:47:10 [TestNG-test-OHRM2 Test1-1] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-28 08:47:11 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Admin kZAqDTaUxo
+2025-05-28 08:47:14 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with className : oxd-userdropdown-link
+2025-05-28 08:47:17 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 10:00:26 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 10:00:33 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 10:00:33 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-2] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Action initialized for thread 20
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 10:00:44 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 10:00:44 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 10:00:44 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 10:00:44 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 10:00:44 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 10:00:45 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 10:00:48 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 10:00:48 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 10:00:48 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 10:00:49 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 10:00:50 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 10:01:02 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 10:01:02 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 10:01:02 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 10:01:02 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 10:01:02 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 10:01:02 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 10:01:02 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 10:01:03 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 10:01:03 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 10:01:06 [TestNG-test-OHRM2 Test1-1] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-28 10:01:07 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : 2133 156161
+2025-05-28 10:01:08 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Logout
+2025-05-28 10:01:11 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 10:05:02 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 10:05:06 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 10:05:15 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 10:05:15 [main] TRACE BaseClass - Trace message logger
+2025-05-28 10:05:15 [main] DEBUG BaseClass - Error message logger
+2025-05-28 10:05:15 [main] WARN  BaseClass - warn message logger
+2025-05-28 10:05:15 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 10:05:15 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 10:05:16 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 10:05:17 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 10:05:17 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 10:05:20 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 11:03:08 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 11:03:13 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 11:03:22 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 11:03:22 [main] TRACE BaseClass - Trace message logger
+2025-05-28 11:03:22 [main] DEBUG BaseClass - Error message logger
+2025-05-28 11:03:22 [main] WARN  BaseClass - warn message logger
+2025-05-28 11:03:22 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 11:03:22 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 11:03:23 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 11:03:24 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 11:03:24 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 11:03:27 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 11:10:35 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 11:10:39 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 11:10:47 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 11:10:47 [main] TRACE BaseClass - Trace message logger
+2025-05-28 11:10:47 [main] DEBUG BaseClass - Error message logger
+2025-05-28 11:10:47 [main] WARN  BaseClass - warn message logger
+2025-05-28 11:10:47 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 11:10:47 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 11:10:48 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 11:10:49 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 11:10:49 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 11:10:51 [main] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 11:10:52 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 11:18:38 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 11:18:42 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 11:18:53 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 11:18:53 [main] TRACE BaseClass - Trace message logger
+2025-05-28 11:18:53 [main] DEBUG BaseClass - Error message logger
+2025-05-28 11:18:53 [main] WARN  BaseClass - warn message logger
+2025-05-28 11:18:53 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 11:18:53 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 11:18:54 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 11:18:55 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 11:18:55 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 11:18:57 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 11:49:41 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 11:49:59 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 11:50:06 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 11:50:06 [main] TRACE BaseClass - Trace message logger
+2025-05-28 11:50:06 [main] DEBUG BaseClass - Error message logger
+2025-05-28 11:50:06 [main] WARN  BaseClass - warn message logger
+2025-05-28 11:50:06 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 11:50:06 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 11:50:08 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 11:50:08 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 11:50:09 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 11:50:13 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 11:52:01 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 11:52:05 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 11:52:14 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 11:52:14 [main] TRACE BaseClass - Trace message logger
+2025-05-28 11:52:14 [main] DEBUG BaseClass - Error message logger
+2025-05-28 11:52:14 [main] WARN  BaseClass - warn message logger
+2025-05-28 11:52:14 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 11:52:14 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 11:52:15 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 11:52:16 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 11:52:16 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 11:52:20 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 11:55:48 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 11:55:55 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 11:56:05 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 11:56:05 [main] TRACE BaseClass - Trace message logger
+2025-05-28 11:56:05 [main] DEBUG BaseClass - Error message logger
+2025-05-28 11:56:05 [main] WARN  BaseClass - warn message logger
+2025-05-28 11:56:05 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 11:56:05 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 11:56:06 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 11:56:07 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 11:56:07 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 11:56:10 [main] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 11:56:11 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 11:57:55 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 11:58:00 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 11:58:08 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 11:58:08 [main] TRACE BaseClass - Trace message logger
+2025-05-28 11:58:08 [main] DEBUG BaseClass - Error message logger
+2025-05-28 11:58:08 [main] WARN  BaseClass - warn message logger
+2025-05-28 11:58:08 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 11:58:08 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 11:58:09 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 11:58:10 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 11:58:11 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 11:58:13 [main] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 11:58:14 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 12:00:58 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 12:01:01 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 12:01:10 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 12:01:10 [main] TRACE BaseClass - Trace message logger
+2025-05-28 12:01:10 [main] DEBUG BaseClass - Error message logger
+2025-05-28 12:01:10 [main] WARN  BaseClass - warn message logger
+2025-05-28 12:01:10 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 12:01:10 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 12:01:11 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 12:01:12 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 12:01:12 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 12:01:16 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 12:11:21 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 12:11:28 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 12:11:39 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 12:11:39 [main] TRACE BaseClass - Trace message logger
+2025-05-28 12:11:39 [main] DEBUG BaseClass - Error message logger
+2025-05-28 12:11:39 [main] WARN  BaseClass - warn message logger
+2025-05-28 12:11:39 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 12:11:39 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 12:11:40 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 12:11:41 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 12:11:41 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 12:13:00 [main] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 12:14:07 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 12:16:31 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 12:16:35 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 12:16:44 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 12:16:44 [main] TRACE BaseClass - Trace message logger
+2025-05-28 12:16:44 [main] DEBUG BaseClass - Error message logger
+2025-05-28 12:16:44 [main] WARN  BaseClass - warn message logger
+2025-05-28 12:16:44 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 12:16:44 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 12:16:45 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 12:16:46 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 12:16:46 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 12:16:50 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 12:35:34 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 12:35:39 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 12:35:47 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 12:35:47 [main] TRACE BaseClass - Trace message logger
+2025-05-28 12:35:47 [main] DEBUG BaseClass - Error message logger
+2025-05-28 12:35:47 [main] WARN  BaseClass - warn message logger
+2025-05-28 12:35:47 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 12:35:47 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 12:35:48 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 12:35:49 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 12:35:49 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 12:35:53 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 12:37:54 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 12:37:58 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 12:38:07 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 12:38:07 [main] TRACE BaseClass - Trace message logger
+2025-05-28 12:38:07 [main] DEBUG BaseClass - Error message logger
+2025-05-28 12:38:07 [main] WARN  BaseClass - warn message logger
+2025-05-28 12:38:07 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 12:38:07 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 12:38:08 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 12:38:09 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 12:38:09 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 12:38:13 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 13:56:13 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 13:56:19 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 13:56:29 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 13:56:29 [main] TRACE BaseClass - Trace message logger
+2025-05-28 13:56:29 [main] DEBUG BaseClass - Error message logger
+2025-05-28 13:56:29 [main] WARN  BaseClass - warn message logger
+2025-05-28 13:56:29 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 13:56:29 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 13:56:30 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 13:56:31 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 13:56:31 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 13:56:33 [main] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 13:56:34 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 14:09:29 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 14:09:35 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 14:09:35 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 14:09:44 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 14:09:44 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 14:09:44 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 14:09:44 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 14:09:44 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 14:09:44 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 14:09:45 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 14:09:45 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-28 14:09:45 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-28 14:09:45 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-28 14:09:45 [TestNG-test-OHRM2 Test1-2] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 14:09:45 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Action initialized for thread 20
+2025-05-28 14:09:46 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 14:09:46 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 14:09:46 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 14:09:46 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 14:09:47 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 14:09:47 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 14:09:50 [TestNG-test-OHRM2 Test1-1] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 14:09:50 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 14:09:51 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 14:09:51 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 14:09:53 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 14:09:57 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 14:10:04 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 14:10:04 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 14:10:04 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 14:10:04 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 14:10:04 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 14:10:04 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 14:10:05 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 14:10:06 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 14:10:06 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 14:10:09 [TestNG-test-OHRM2 Test1-1] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-28 14:10:10 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : manda12341234kanupriya userjs Negi
+2025-05-28 14:10:12 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Logout
+2025-05-28 14:10:15 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 14:11:06 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 14:11:10 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 14:11:10 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 14:11:19 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 14:11:19 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-28 14:11:19 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-28 14:11:19 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-28 14:11:19 [TestNG-test-OHRM2 Test1-2] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 14:11:19 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Action initialized for thread 20
+2025-05-28 14:11:20 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 14:11:20 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 14:11:20 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 14:11:20 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 14:11:20 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 14:11:20 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 14:11:21 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 14:11:22 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 14:11:22 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 14:11:22 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 14:11:22 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 14:11:23 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 14:11:25 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 14:11:26 [TestNG-test-OHRM2 Test1-1] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 14:11:26 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 14:11:27 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 14:11:27 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 14:11:29 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 14:11:37 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 14:11:37 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 14:11:37 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 14:11:37 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 14:11:37 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 14:11:37 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 14:11:38 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 14:11:38 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 14:11:39 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 14:11:41 [TestNG-test-OHRM2 Test1-1] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-28 14:11:42 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Chandra obulreddy
+2025-05-28 14:11:44 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Logout
+2025-05-28 14:11:47 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 14:46:32 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 14:46:56 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 14:46:56 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 14:46:56 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 14:47:27 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 14:47:27 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-28 14:47:27 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-28 14:47:27 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-28 14:47:27 [TestNG-test-OHRM2 Test1-2] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 14:47:27 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Action initialized for thread 20
+2025-05-28 14:47:41 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 14:47:41 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 14:47:41 [TestNG-test-OHRM2 Test1-3] TRACE BaseClass - Trace message logger
+2025-05-28 14:47:41 [TestNG-test-OHRM2 Test1-3] DEBUG BaseClass - Error message logger
+2025-05-28 14:47:41 [TestNG-test-OHRM2 Test1-3] WARN  BaseClass - warn message logger
+2025-05-28 14:47:41 [TestNG-test-OHRM2 Test1-3] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 14:47:41 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Action initialized for thread 21
+2025-05-28 14:47:42 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 14:47:43 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 14:47:43 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 14:47:43 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 14:47:43 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 14:47:43 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 14:47:43 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 14:47:52 [TestNG-test-OHRM2 Test1-3] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 14:47:52 [TestNG-test-OHRM2 Test1-3] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 14:47:53 [TestNG-test-OHRM2 Test1-3] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 14:48:27 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 14:48:29 [TestNG-test-OHRM2 Test1-3] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 14:48:29 [TestNG-test-OHRM2 Test1-3] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 14:48:31 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 14:48:44 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 14:48:45 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 16:25:14 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 16:25:22 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 16:25:22 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-3] TRACE BaseClass - Trace message logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-3] DEBUG BaseClass - Error message logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-3] WARN  BaseClass - warn message logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-3] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Action initialized for thread 21
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 16:25:41 [TestNG-test-OHRM2 Test1-3] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 16:25:41 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 16:25:43 [TestNG-test-OHRM2 Test1-3] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 16:25:43 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 16:25:46 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 16:25:48 [TestNG-test-OHRM2 Test1-3] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 16:25:48 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 16:25:48 [TestNG-test-OHRM2 Test1-1] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 16:25:49 [TestNG-test-OHRM2 Test1-3] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 16:25:50 [TestNG-test-OHRM2 Test1-3] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 16:25:57 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 16:25:57 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-28 16:25:57 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-28 16:25:57 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-28 16:25:57 [TestNG-test-OHRM2 Test1-2] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 16:25:57 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Action initialized for thread 20
+2025-05-28 16:25:58 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 16:25:58 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 16:25:59 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 16:25:59 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 16:26:00 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 16:26:01 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-28 16:26:02 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : reddykanupriya hariNegi
+2025-05-28 16:26:03 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with className : oxd-userdropdown-link
+2025-05-28 16:26:06 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 16:50:28 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 16:50:40 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 16:50:47 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 16:50:47 [main] TRACE BaseClass - Trace message logger
+2025-05-28 16:50:48 [main] DEBUG BaseClass - Error message logger
+2025-05-28 16:50:48 [main] WARN  BaseClass - warn message logger
+2025-05-28 16:50:48 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 16:50:48 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 16:50:49 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 16:50:50 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 16:51:11 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 17:07:31 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 17:07:34 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 17:07:42 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 17:07:42 [main] TRACE BaseClass - Trace message logger
+2025-05-28 17:07:42 [main] DEBUG BaseClass - Error message logger
+2025-05-28 17:07:42 [main] WARN  BaseClass - warn message logger
+2025-05-28 17:07:42 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 17:07:42 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 17:07:43 [main] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 17:07:44 [main] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 17:07:44 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 17:07:47 [main] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-28 17:07:48 [main] INFO  Action - Clicked an element logger info : Element with text : ashok123414312341234 varmas
+2025-05-28 17:07:50 [main] INFO  Action - Clicked an element logger info : Element with text : Logout
+2025-05-28 17:07:53 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 17:08:32 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 17:08:36 [main] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 17:08:51 [main] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 17:08:51 [main] TRACE BaseClass - Trace message logger
+2025-05-28 17:08:51 [main] DEBUG BaseClass - Error message logger
+2025-05-28 17:08:51 [main] WARN  BaseClass - warn message logger
+2025-05-28 17:08:51 [main] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 17:08:51 [main] INFO  BaseClass - Action initialized for thread 1
+2025-05-28 17:08:52 [main] INFO  Action - Entered text on :Element with name : username --> admi
+2025-05-28 17:08:53 [main] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 17:08:53 [main] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 17:08:56 [main] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 17:08:57 [main] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 18:36:03 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 18:36:25 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 18:36:25 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-3] TRACE BaseClass - Trace message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-3] DEBUG BaseClass - Error message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-3] WARN  BaseClass - warn message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-3] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Action initialized for thread 21
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-2] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Action initialized for thread 20
+2025-05-28 18:36:35 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 18:36:37 [TestNG-test-OHRM2 Test1-3] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 18:36:37 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 18:36:38 [TestNG-test-OHRM2 Test1-3] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 18:36:38 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 18:36:42 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 18:36:42 [TestNG-test-OHRM2 Test1-3] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 18:36:44 [TestNG-test-OHRM2 Test1-3] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 18:36:44 [TestNG-test-OHRM2 Test1-2] INFO  Action - Element is displayed : Element with text : Admin
+2025-05-28 18:36:44 [TestNG-test-OHRM2 Test1-3] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 18:36:45 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Abdullah Siddiqui
+2025-05-28 18:36:50 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 18:36:50 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 18:36:50 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 18:36:50 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 18:36:50 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 18:36:50 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 18:36:52 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admi
+2025-05-28 18:36:52 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 18:36:52 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Logout
+2025-05-28 18:36:53 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 18:36:55 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 18:36:56 [TestNG-test-OHRM2 Test1-1] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 18:36:57 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 18:36:58 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Chrome driver Instance is created logger
+2025-05-28 18:36:59 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 18:37:07 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 18:37:07 [TestNG-test-OHRM2 Test1-3] TRACE BaseClass - Trace message logger
+2025-05-28 18:37:07 [TestNG-test-OHRM2 Test1-3] DEBUG BaseClass - Error message logger
+2025-05-28 18:37:07 [TestNG-test-OHRM2 Test1-3] WARN  BaseClass - warn message logger
+2025-05-28 18:37:07 [TestNG-test-OHRM2 Test1-3] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 18:37:07 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Action initialized for thread 21
+2025-05-28 18:37:09 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 18:37:35 [main] INFO  BaseClass - config.properties file loaded logger
+2025-05-28 18:38:51 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 18:38:51 [TestNG-test-OHRM2 Test1-2] TRACE BaseClass - Trace message logger
+2025-05-28 18:38:52 [TestNG-test-OHRM2 Test1-2] DEBUG BaseClass - Error message logger
+2025-05-28 18:38:52 [TestNG-test-OHRM2 Test1-2] WARN  BaseClass - warn message logger
+2025-05-28 18:38:52 [TestNG-test-OHRM2 Test1-2] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 18:38:52 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Action initialized for thread 20
+2025-05-28 18:38:53 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 18:38:53 [TestNG-test-OHRM2 Test1-3] TRACE BaseClass - Trace message logger
+2025-05-28 18:38:53 [TestNG-test-OHRM2 Test1-3] DEBUG BaseClass - Error message logger
+2025-05-28 18:38:53 [TestNG-test-OHRM2 Test1-3] WARN  BaseClass - warn message logger
+2025-05-28 18:38:53 [TestNG-test-OHRM2 Test1-3] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 18:38:53 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Action initialized for thread 21
+2025-05-28 18:39:16 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 18:39:16 [TestNG-test-OHRM2 Test1-3] INFO  Action - Entered text on :Element with name : username --> admin
+2025-05-28 18:39:24 [TestNG-test-OHRM2 Test1-3] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 18:39:25 [TestNG-test-OHRM2 Test1-2] INFO  Action - Entered text on :Element with name : password --> admin123
+2025-05-28 18:39:36 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 18:39:36 [TestNG-test-OHRM2 Test1-1] TRACE BaseClass - Trace message logger
+2025-05-28 18:39:36 [TestNG-test-OHRM2 Test1-1] DEBUG BaseClass - Error message logger
+2025-05-28 18:39:36 [TestNG-test-OHRM2 Test1-1] WARN  BaseClass - warn message logger
+2025-05-28 18:39:36 [TestNG-test-OHRM2 Test1-1] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 18:39:36 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Action initialized for thread 19
+2025-05-28 18:39:37 [TestNG-test-OHRM2 Test1-3] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 18:39:38 [TestNG-test-OHRM2 Test1-2] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 18:39:48 [TestNG-test-OHRM2 Test1-3] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 18:39:52 [TestNG-test-OHRM2 Test1-3] INFO  Action - Element is displayed : Unable to describe the element
+2025-05-28 18:39:59 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : username --> admi
+2025-05-28 18:40:00 [TestNG-test-OHRM2 Test1-1] INFO  Action - Entered text on :Element with name : password --> admin
+2025-05-28 18:40:02 [TestNG-test-OHRM2 Test1-1] INFO  Action - Clicked an element logger info : Element with text : Login
+2025-05-28 18:40:02 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 18:40:03 [TestNG-test-OHRM2 Test1-1] INFO  Action - Texts are matching: Invalid credentials equals Invalid credentials
+2025-05-28 18:40:09 [TestNG-test-OHRM2 Test1-2] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 18:40:14 [TestNG-test-OHRM2 Test1-1] INFO  BaseClass - Webdrive instance is closed logger
+2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - WewbDriver initialized and Browser Maximized logger info 
+2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] TRACE BaseClass - Trace message logger
+2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] DEBUG BaseClass - Error message logger
+2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] WARN  BaseClass - warn message logger
+2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] INFO  Action - WebDriver instance is created of Action class constructor logger info
+2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Action initialized for thread 21
+2025-05-28 18:40:35 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Webdrive instance is closed logger

@@ -1,0 +1,174 @@
+2025-05-21 16:10:47 [main] ERROR BaseClass - Error message logger
+2025-05-21 16:10:47 [main] FATAL BaseClass - fatal message logger
+2025-05-21 16:30:27 [main] ERROR BaseClass - Error message logger
+2025-05-21 16:30:27 [main] FATAL BaseClass - fatal message logger
+2025-05-21 16:45:36 [main] ERROR BaseClass - Error message logger
+2025-05-21 16:45:36 [main] FATAL BaseClass - fatal message logger
+2025-05-25 00:24:11 [main] ERROR BaseClass - Error message logger
+2025-05-25 00:24:11 [main] FATAL BaseClass - fatal message logger
+2025-05-27 14:19:58 [main] ERROR BaseClass - Error message logger
+2025-05-27 14:19:58 [main] FATAL BaseClass - fatal message logger
+2025-05-27 16:46:14 [main] ERROR BaseClass - Error message logger
+2025-05-27 16:46:14 [main] FATAL BaseClass - fatal message logger
+2025-05-27 22:48:28 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-27 22:48:28 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-27 22:48:29 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-27 22:48:29 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-27 22:48:32 [TestNG-test-OHRM2 Test1-2] ERROR Action - Unable to click element logger error
+2025-05-27 22:48:53 [TestNG-test-OHRM2 Test1-2] ERROR Action - Element is not displayed : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9179702163dedf8103071067adcdbf2b, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\Nitish\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49685}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49685/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9179702163dedf8103071067adcdbf2b
+2025-05-27 22:49:13 [TestNG-test-OHRM2 Test1-2] ERROR Action - Element is not displayed : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9179702163dedf8103071067adcdbf2b, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\Nitish\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49685}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49685/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9179702163dedf8103071067adcdbf2b
+2025-05-27 22:49:25 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-27 22:49:25 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-27 22:49:48 [TestNG-test-OHRM2 Test2-1] ERROR BaseClass - Error message logger
+2025-05-27 22:49:48 [TestNG-test-OHRM2 Test2-1] FATAL BaseClass - fatal message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-28 08:43:31 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-28 08:43:51 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 08:43:51 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 08:46:49 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 08:46:49 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 08:46:50 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-28 08:46:50 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-28 08:47:06 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 08:47:06 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 10:00:42 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 10:01:02 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 10:01:02 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 10:05:15 [main] ERROR BaseClass - Error message logger
+2025-05-28 10:05:15 [main] FATAL BaseClass - fatal message logger
+2025-05-28 11:03:22 [main] ERROR BaseClass - Error message logger
+2025-05-28 11:03:22 [main] FATAL BaseClass - fatal message logger
+2025-05-28 11:10:47 [main] ERROR BaseClass - Error message logger
+2025-05-28 11:10:47 [main] FATAL BaseClass - fatal message logger
+2025-05-28 11:18:53 [main] ERROR BaseClass - Error message logger
+2025-05-28 11:18:53 [main] FATAL BaseClass - fatal message logger
+2025-05-28 11:50:06 [main] ERROR BaseClass - Error message logger
+2025-05-28 11:50:06 [main] FATAL BaseClass - fatal message logger
+2025-05-28 11:52:14 [main] ERROR BaseClass - Error message logger
+2025-05-28 11:52:14 [main] FATAL BaseClass - fatal message logger
+2025-05-28 11:56:05 [main] ERROR BaseClass - Error message logger
+2025-05-28 11:56:05 [main] FATAL BaseClass - fatal message logger
+2025-05-28 11:58:08 [main] ERROR BaseClass - Error message logger
+2025-05-28 11:58:08 [main] FATAL BaseClass - fatal message logger
+2025-05-28 12:01:10 [main] ERROR BaseClass - Error message logger
+2025-05-28 12:01:10 [main] FATAL BaseClass - fatal message logger
+2025-05-28 12:11:39 [main] ERROR BaseClass - Error message logger
+2025-05-28 12:11:39 [main] FATAL BaseClass - fatal message logger
+2025-05-28 12:16:44 [main] ERROR BaseClass - Error message logger
+2025-05-28 12:16:44 [main] FATAL BaseClass - fatal message logger
+2025-05-28 12:35:47 [main] ERROR BaseClass - Error message logger
+2025-05-28 12:35:47 [main] FATAL BaseClass - fatal message logger
+2025-05-28 12:38:07 [main] ERROR BaseClass - Error message logger
+2025-05-28 12:38:07 [main] FATAL BaseClass - fatal message logger
+2025-05-28 13:56:29 [main] ERROR BaseClass - Error message logger
+2025-05-28 13:56:29 [main] FATAL BaseClass - fatal message logger
+2025-05-28 14:09:44 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 14:09:44 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 14:09:45 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-28 14:09:45 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-28 14:10:04 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 14:10:04 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 14:11:19 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-28 14:11:19 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-28 14:11:20 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 14:11:20 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 14:11:37 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 14:11:37 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 14:47:27 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-28 14:47:27 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-28 14:47:41 [TestNG-test-OHRM2 Test1-3] ERROR BaseClass - Error message logger
+2025-05-28 14:47:41 [TestNG-test-OHRM2 Test1-3] FATAL BaseClass - fatal message logger
+2025-05-28 14:47:43 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 14:47:43 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 14:48:03 [TestNG-test-OHRM2 Test1-1] ERROR Action - Unable to enter the value : no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Username']"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39c75214c2432987ac6ed6019c6f991c, findElement {value=//input[@placeholder='Username'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\Nitish\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50606}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50606/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 39c75214c2432987ac6ed6019c6f991c
+2025-05-28 14:48:23 [TestNG-test-OHRM2 Test1-1] ERROR Action - Unable to enter the value : no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Password']"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39c75214c2432987ac6ed6019c6f991c, findElement {value=//input[@placeholder='Password'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\Nitish\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50606}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50606/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 39c75214c2432987ac6ed6019c6f991c
+2025-05-28 14:48:43 [TestNG-test-OHRM2 Test1-2] ERROR Action - Element is not displayed : Error communicating with the remote browser. It may have died.
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39c75214c2432987ac6ed6019c6f991c, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\Nitish\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50606}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50606/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 39c75214c2432987ac6ed6019c6f991c
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-3] ERROR BaseClass - Error message logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-3] FATAL BaseClass - fatal message logger
+2025-05-28 16:25:35 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 16:25:57 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-28 16:25:57 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-28 16:50:47 [main] ERROR BaseClass - Error message logger
+2025-05-28 16:50:48 [main] FATAL BaseClass - fatal message logger
+2025-05-28 16:50:50 [main] ERROR Action - Unable to enter the value : Keys to send should be a not null CharSequence
+2025-05-28 16:51:10 [main] ERROR Action - Element is not displayed : no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3f5e1edcf5b8a5ee0c5413a50642e83, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\Nitish\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57686}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57686/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a3f5e1edcf5b8a5ee0c5413a50642e83
+2025-05-28 17:07:42 [main] ERROR BaseClass - Error message logger
+2025-05-28 17:07:42 [main] FATAL BaseClass - fatal message logger
+2025-05-28 17:08:51 [main] ERROR BaseClass - Error message logger
+2025-05-28 17:08:51 [main] FATAL BaseClass - fatal message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-3] ERROR BaseClass - Error message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-3] FATAL BaseClass - fatal message logger
+2025-05-28 18:36:32 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-28 18:36:50 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 18:36:50 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 18:37:07 [TestNG-test-OHRM2 Test1-3] ERROR BaseClass - Error message logger
+2025-05-28 18:37:07 [TestNG-test-OHRM2 Test1-3] FATAL BaseClass - fatal message logger
+2025-05-28 18:38:51 [TestNG-test-OHRM2 Test1-2] ERROR BaseClass - Error message logger
+2025-05-28 18:38:52 [TestNG-test-OHRM2 Test1-2] FATAL BaseClass - fatal message logger
+2025-05-28 18:38:53 [TestNG-test-OHRM2 Test1-3] ERROR BaseClass - Error message logger
+2025-05-28 18:38:53 [TestNG-test-OHRM2 Test1-3] FATAL BaseClass - fatal message logger
+2025-05-28 18:39:36 [TestNG-test-OHRM2 Test1-1] ERROR BaseClass - Error message logger
+2025-05-28 18:39:36 [TestNG-test-OHRM2 Test1-1] FATAL BaseClass - fatal message logger
+2025-05-28 18:39:59 [TestNG-test-OHRM2 Test1-2] ERROR Action - Element is not displayed : Unable to locate element: //span[text()='Admin']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [9d7626fd-1a08-4198-9fad-709bac5b8226, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 139.0, moz:accessibilityChecks: false, moz:buildID: 20250522210034, moz:debuggerAddress: 127.0.0.1:25703, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 2748, moz:profile: C:\Users\Nitish\AppData\Loc..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:25703/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 9d7626fd-1a08-4198-9fad-709bac5b8226
+2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] ERROR BaseClass - Error message logger
+2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] FATAL BaseClass - fatal message logger

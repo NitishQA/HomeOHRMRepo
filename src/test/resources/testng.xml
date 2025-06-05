@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="TutorialsNinjaAutomationSuite1">
-	<listeners>
-		<listener class-name="com.lms.qa.listeners.MyListeners"></listener>
-	</listeners>
-	<test name="TutorialsNinja TestCases">
-		<classes>
-			<class name="com.lms.qa.testcases.LandingPageTest" />
-	   <!-- <class name="com.lms.qa.testcases.LoginPageTest" /> It is used for commenting in xml file -->
-		</classes>
-	</test> <!-- TutorialsNinja TestCases -->
-</suite> <!-- TutorialsNinjaAutomationSuite1 -->
+<suite name="OHRM2 Suite" parallel="methods" thread-count="3">
+  <test name="OHRM2 Test1">
+    <classes>
+ <!--      <class name="com.ohrm.base.DummyClassTest"/>  -->
+      <class name="com.ohrm.testCasesPage.LoginPageTest"/>
+      <class name="com.ohrm.testCasesPage.HomePageTest"/>
+      <class name="com.ohrm.base.DummyClassTest"/>
+    </classes>
+  </test> <!-- OHRM2 Test1 -->
+
+  
+ <!--   <test name="OHRM2 Test2">
+    <classes>
+      <class name="com.ohrm.base.DummyClassTest"/>
+    </classes>
+  </test> --> <!-- OHRM2 Test2 --> 
+</suite> <!-- OHRM2 Suite -->
