@@ -678,3 +678,4 @@
 2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] INFO  Action - WebDriver instance is created of Action class constructor logger info
 2025-05-28 18:40:30 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Action initialized for thread 21
 2025-05-28 18:40:35 [TestNG-test-OHRM2 Test1-3] INFO  BaseClass - Webdrive instance is closed logger
+2025-06-06 11:33:17 [main] INFO  BaseClass - config.properties file loaded logger
